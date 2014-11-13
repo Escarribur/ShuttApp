@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShuttApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_captura_audio">CapturaAudio</string>
+    <string name="Grabando">Grabando</string>
+    <string name="Grabar">Grabar</string>
+    <string name="Decibel">Decibel</string>
+    <string name="title_activity_alerta">Alerta</string>
+    <string name="Shhhh">Shhhh</string>
+    <string name="ShutApp">ShutApp</string>
+    <string name="Comenzar">Comenzar</string>
+
+</resources>
